@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InfoBar Test Renders InfoBar correctly 1`] = `
+<div
+  className="info-wrapper"
+>
+  <div
+    className="category-wrapper"
+  >
+    <div
+      className="category"
+    >
+      Hoşgeldiniz
+    </div>
+    <div
+      className="search-keyword-wrapper"
+    />
+  </div>
+  <div
+    className="filter-wrapper"
+  >
+    <select
+      className="custom-select"
+      onChange={[Function]}
+      value=""
+    >
+      <option
+        disabled={true}
+        hidden={true}
+        value=""
+      >
+        Sıralama
+      </option>
+      <option
+        value="0"
+      >
+        En Düşük Fiyat
+      </option>
+      <option
+        value="1"
+      >
+        En Yüksek Fiyat
+      </option>
+      <option
+        value="2"
+      >
+        En Yeniler (A&gt;Z)
+      </option>
+      <option
+        value="3"
+      >
+        En Yeniler (Z&gt;A)
+      </option>
+    </select>
+  </div>
+</div>
+`;

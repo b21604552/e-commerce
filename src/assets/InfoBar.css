@@ -1,0 +1,106 @@
+.info-wrapper {
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1280px;
+    height: 52px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 16px;
+}
+
+.category {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 28px;
+    color: #484848;
+}
+
+.search-keyword-wrapper {
+    display: inline-flex;
+}
+
+.search-keyword-label {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    color: #B0B0B0;
+    margin-right: 5px;
+}
+
+.search-keyword {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.filter-wrapper {
+    width: 120px;
+    height: 48px;
+}
+
+.filter-button {
+    width: 120px;
+    height: 48px;
+    border: 1px solid #B0B0B0;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: #B0B0B0;
+}
+
+select {
+    background-color: white;
+    border: 1px solid #B4B4BB;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #B0B0B0;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 24px;
+    text-align: center;
+    width: 120px;
+    padding-right: 20px;
+    padding-left: 5px;
+    height: 48px;
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    cursor: pointer;
+    text-overflow: ellipsis;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+select.custom-select {
+    background-image: linear-gradient(45deg, transparent 50%, #BDBDBD 50%), linear-gradient(135deg, #BDBDBD 50%, transparent 50%);
+    background-position: calc(100% - 15px) calc(1em + 5px), calc(100% - 10px) calc(1em + 5px);
+    background-size: 5px 5px, 5px 5px, 1px 1.5em;
+    background-repeat: no-repeat;
+}
+
+select.custom-select:focus {
+    background-image: linear-gradient(45deg, transparent 50%, #BDBDBD 50%), linear-gradient(135deg, #BDBDBD 50%, transparent 50%);
+    background-position: calc(100% - 15px) calc(1em + 5px), calc(100% - 10px) calc(1em + 5px);
+    background-size: 5px 5px, 5px 5px, 1px 1.5em;
+    background-repeat: no-repeat;
+    outline: 0;
+}

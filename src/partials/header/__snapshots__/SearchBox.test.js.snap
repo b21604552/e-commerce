@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBox Test Renders SearchBox correctly 1`] = `
+<div
+  className="search-wrapper"
+>
+  <span
+    className="prefix"
+  >
+    <img
+      alt="search-icon"
+      src="search-icon.svg"
+    />
+  </span>
+  <input
+    className="search-input"
+    id="search-input"
+    onChange={[Function]}
+    placeholder="25 milyon’dan fazla ürün içerisinde ara"
+    type="text"
+  />
+</div>
+`;

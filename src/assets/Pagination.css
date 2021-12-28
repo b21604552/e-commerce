@@ -1,0 +1,36 @@
+.pagination-wrapper {
+    height: 33px;
+    display: inline-flex;
+    margin-bottom: 12px;
+}
+
+.pagination-element {
+    width: 33px;
+    height: 33px;
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
+    box-sizing: border-box;
+    border-radius: 9px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #646464;
+    margin-right: 6px;
+    cursor: pointer;
+}
+
+.pagination-element-active {
+    color: #FF6000;
+}
+
+.pagination-prev {
+    margin-left: 13px;
+}
+
+.pagination-next {
+    margin-right: 13px;
+}

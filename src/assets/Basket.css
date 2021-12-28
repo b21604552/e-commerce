@@ -1,0 +1,122 @@
+.basket-wrapper {
+    width: 120px;
+    height: 48px;
+    margin-right: 80px;
+}
+
+.basket-button {
+    width: 120px;
+    height: 48px;
+    border: 1px solid #B0B0B0;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: #B0B0B0;
+    cursor: pointer;
+}
+
+.basket-wrapper:hover>.basket-button {
+    height: 47px;
+    border-bottom: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.basket-opened {
+    display: none;
+    width: 360px;
+    border-radius: 4px;
+    border: 1px solid #B0B0B0;
+    box-sizing: border-box;
+    z-index: 10000;
+    position: absolute;
+    margin-left: -240px;
+    border-top-right-radius: 0;
+    border-top: none;
+    background: #FFFFFF linear-gradient(#B0B0B0, #B0B0B0) no-repeat top left;
+    background-size: 240px 1px;
+    padding: 21px;
+}
+
+.basket-wrapper:hover>.basket-opened {
+    display: block;
+}
+
+.basket-count {
+    z-index: 1000;
+    position: absolute;
+    border-radius: 25px;
+    width: 18px;
+    height: 18px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+    background: #FF6000;
+    margin-left: 108px;
+    margin-top: -7px;
+}
+
+.basket-opened-element {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.basket-product-image-wrapper {
+    width: 54px;
+    height: 72px;
+    margin-right: 10px;
+}
+
+.basket-product-info-wrapper {
+
+}
+
+.basket-product-title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    color: #484848;
+    height: 48px;
+}
+
+.basket-remove-button {
+    background: #FFFFFF;
+    border: 1px solid #F90000;
+    border-radius: 4px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #F90000;
+    cursor: pointer;
+}
+
+.basket-empty {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    color: #484848;
+}
+
+.basket-empty-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "id": 0,
+    "title": "Apple iPhone 11 32GB",
+    "brand": "Apple",
+    "color": "Siyah",
+    "price": 124.00,
+    "discountedPrice": 109.12,
+    "discount": 12,
+    "image": "Apple"
+  },
+  {
+    "id": 1,
+    "title": "Apple iPhone 11 32GB",
+    "brand": "Apple",
+    "color": "Lacivert",
+    "price": 124.00,
+    "discountedPrice": 109.12,
+    "discount": 12,
+    "image": "Apple"
+  },
+  {
+    "id": 2,
+    "title": "Apple iPhone 11 32GB",
+    "brand": "Apple",
+    "color": "Sarı",
+    "price": 124.00,
+    "discountedPrice": 109.12,
+    "discount": 12,
+    "image": "Apple"
+  },
+  {
+    "id": 3,
+    "title": "Apple iPhone 11 32GB",
+    "brand": "Apple",
+    "color": "Beyaz",
+    "price": 124.00,
+    "discountedPrice": 109.12,
+    "discount": 12,
+    "image": "Apple"
+  },
+  {
+    "id": 4,
+    "title": "Apple iPhone 11 64GB",
+    "brand": "Apple",
+    "color": "Siyah",
+    "price": 224.00,
+    "discountedPrice": 194.88,
+    "discount": 13,
+    "image": "Apple"
+  },
+  {
+    "id": 5,
+    "title": "Apple iPhone 11 64GB",
+    "brand": "Apple",
+    "color": "Lacivert",
+    "price": 224.00,
+    "discountedPrice": 194.88,
+    "discount": 13,
+    "image": "Apple"
+  },
+  {
+    "id": 6,
+    "title": "Apple iPhone 11 64GB",
+    "brand": "Apple",
+    "color": "Sarı",
+    "price": 224.00,
+    "discountedPrice": 194.88,
+    "discount": 13,
+    "image": "Apple"
+  },
+  {
+    "id": 7,
+    "title": "Apple iPhone 11 64GB",
+    "brand": "Apple",
+    "color": "Beyaz",
+    "price": 224.00,
+    "discountedPrice": 194.88,
+    "discount": 13,
+    "image": "Apple"
+  },
+  {
+    "id": 8,
+    "title": "Apple iPhone 11 128GB",
+    "brand": "Apple",
+    "color": "Siyah",
+    "price": 324.00,
+    "discountedPrice": 278.64,
+    "discount": 14,
+    "image": "Apple"
+  },
+  {
+    "id": 9,
+    "title": "Apple iPhone 11 128GB",
+    "brand": "Apple",
+    "color": "Lacivert",
+    "price": 324.00,
+    "discountedPrice": 278.64,
+    "discount": 14,
+    "image": "Apple"
+  },
+  {
+    "id": 10,
+    "title": "Apple iPhone 11 128GB",
+    "brand": "Apple",
+    "color": "Sarı",
+    "price": 324.00,
+    "discountedPrice": 278.64,
+    "discount": 14,
+    "image": "Apple"
+  },
+  {
+    "id": 11,
+    "title": "Apple iPhone 11 128GB",
+    "brand": "Apple",
+    "color": "Beyaz",
+    "price": 324.00,
+    "discountedPrice": 278.64,
+    "discount": 14,
+    "image": "Apple"
+  },
+  {
+    "id": 12,
+    "title": "Apple iPhone 11 256GB",
+    "brand": "Apple",
+    "color": "Siyah",
+    "price": 424.00,
+    "discountedPrice": 360.4,
+    "discount": 15,
+    "image": "Apple"
+  },
+  {
+    "id": 13,
+    "title": "Apple iPhone 11 256GB",
+    "brand": "Apple",
+    "color": "Lacivert",
+    "price": 424.00,
+    "discountedPrice": 360.4,
+    "discount": 15,
+    "image": "Apple"
+  },
+  {
+    "id": 14,
+    "title": "Apple iPhone 11 256GB",
+    "brand": "Apple",
+    "color": "Sarı",
+    "price": 424.00,
+    "discountedPrice": 360.4,
+    "discount": 15,
+    "image": "Apple"
+  },
+  {
+    "id": 15,
+    "title": "Apple iPhone 11 256GB",
+    "brand": "Apple",
+    "color": "Beyaz",
+    "price": 424.00,
+    "discountedPrice": 360.4,
+    "discount": 15,
+    "image": "Apple"
+  },
+  {
+    "id": 16,
+    "title": "Samsung Galaxy S21 5G 128GB (Samsung Türkiye Garantili)",
+    "brand": "Samsung",
+    "color": "Siyah",
+    "price": 124.00,
+    "discountedPrice": 109.12,
+    "discount": 12,
+    "image": "Samsung"
+  },
+  {
+    "id": 17,
+    "title": "Samsung Galaxy S21 5G 128GB (Samsung Türkiye Garantili)",
+    "brand": "Samsung",
+    "color": "Lacivert",
+    "price": 124.00,
+    "discountedPrice": 109.12,
+    "discount": 12,
+    "image": "Samsung"
+  },
+  {
+    "id": 18,
+    "title": "Samsung Galaxy S21 5G 128GB (Samsung Türkiye Garantili)",
+    "brand": "Samsung",
+    "color": "Sarı",
+    "price": 124.00,
+    "discountedPrice": 109.12,
+    "discount": 12,
+    "image": "Samsung"
+  },
+  {
+    "id": 19,
+    "title": "Samsung Galaxy S21 5G 128GB (Samsung Türkiye Garantili)",
+    "brand": "Samsung",
+    "color": "Beyaz",
+    "price": 124.00,
+    "discountedPrice": 109.12,
+    "discount": 12,
+    "image": "Samsung"
+  },
+  {
+    "id": 20,
+    "title": "Samsung Galaxy S21 Plus 5G 128GB (Samsung Türkiye Garantili)",
+    "brand": "Samsung",
+    "color": "Siyah",
+    "price": 224.00,
+    "discountedPrice": 194.88,
+    "discount": 13,
+    "image": "Samsung"
+  },
+  {
+    "id": 21,
+    "title": "Samsung Galaxy S21 Plus 5G 128GB (Samsung Türkiye Garantili)",
+    "brand": "Samsung",
+    "color": "Lacivert",
+    "price": 224.00,
+    "discountedPrice": 194.88,
+    "discount": 13,
+    "image": "Samsung"
+  },
+  {
+    "id": 22,
+    "title": "Samsung Galaxy S21 Plus 5G 128GB (Samsung Türkiye Garantili)",
+    "brand": "Samsung",
+    "color": "Sarı",
+    "price": 224.00,
+    "discountedPrice": 194.88,
+    "discount": 13,
+    "image": "Samsung"
+  },
+  {
+    "id": 23,
+    "title": "Samsung Galaxy S21 Plus 5G 128GB (Samsung Türkiye Garantili)",
+    "brand": "Samsung",
+    "color": "Beyaz",
+    "price": 224.00,
+    "discountedPrice": 194.88,
+    "discount": 13,
+    "image": "Samsung"
+  },
+  {
+    "id": 24,
+    "title": "Samsung Galaxy S21 Ultra 5G 128GB (Samsung Türkiye Garantili)",
+    "brand": "Samsung",
+    "color": "Siyah",
+    "price": 324.00,
+    "discountedPrice": 278.64,
+    "discount": 14,
+    "image": "Samsung"
+  },
+  {
+    "id": 25,
+    "title": "Samsung Galaxy S21 Ultra 5G 128GB (Samsung Türkiye Garantili)",
+    "brand": "Samsung",
+    "color": "Lacivert",
+    "price": 324.00,
+    "discountedPrice": 278.64,
+    "discount": 14,
+    "image": "Samsung"
+  },
+  {
+    "id": 26,
+    "title": "Samsung Galaxy S21 Ultra 5G 128GB (Samsung Türkiye Garantili)",
+    "brand": "Samsung",
+    "color": "Sarı",
+    "price": 324.00,
+    "discountedPrice": 278.64,
+    "discount": 14,
+    "image": "Samsung"
+  },
+  {
+    "id": 27,
+    "title": "Samsung Galaxy S21 Ultra 5G 128GB (Samsung Türkiye Garantili)",
+    "brand": "Samsung",
+    "color": "Beyaz",
+    "price": 324.00,
+    "discountedPrice": 278.64,
+    "discount": 14,
+    "image": "Samsung"
+  },
+  {
+    "id": 28,
+    "title": "Xiaomi Mi 11 256 GB (Xiaomi Türkiye Garantili) Xiaomi Mi 11 256 GB (Xiaomi Türkiye Garantili)",
+    "brand": "Xiaomi",
+    "color": "Siyah",
+    "price": 424.00,
+    "discountedPrice": 360.4,
+    "discount": 15,
+    "image": "Xiaomi"
+  },
+  {
+    "id": 29,
+    "title": "Xiaomi Mi 11 256 GB (Xiaomi Türkiye Garantili) Xiaomi Mi 11 256 GB (Xiaomi Türkiye Garantili)",
+    "brand": "Xiaomi",
+    "color": "Lacivert",
+    "price": 424.00,
+    "discountedPrice": 360.4,
+    "discount": 15,
+    "image": "Xiaomi"
+  },
+  {
+    "id": 30,
+    "title": "Xiaomi Mi 11 256 GB (Xiaomi Türkiye Garantili) Xiaomi Mi 11 256 GB (Xiaomi Türkiye Garantili)",
+    "brand": "Xiaomi",
+    "color": "Sarı",
+    "price": 424.00,
+    "discountedPrice": 360.4,
+    "discount": 15,
+    "image": "Xiaomi"
+  },
+  {
+    "id": 31,
+    "title": "Xiaomi Mi 11 256 GB (Xiaomi Türkiye Garantili) Xiaomi Mi 11 256 GB (Xiaomi Türkiye Garantili)",
+    "brand": "Xiaomi",
+    "color": "Beyaz",
+    "price": 424.00,
+    "discountedPrice": 360.4,
+    "discount": 15,
+    "image": "Xiaomi"
+  },
+  {
+    "id": 32,
+    "title": "Huawei Mate Xs 512 GB (Huawei Türkiye Garantili) Huawei Mate Xs 512 GB (Huawei Türkiye Garantili)",
+    "brand": "Huawei",
+    "color": "Siyah",
+    "price": 424.00,
+    "discountedPrice": 360.4,
+    "discount": 15,
+    "image": "Huawei"
+  },
+  {
+    "id": 33,
+    "title": "Huawei Mate Xs 512 GB (Huawei Türkiye Garantili) Huawei Mate Xs 512 GB (Huawei Türkiye Garantili)",
+    "brand": "Huawei",
+    "color": "Lacivert",
+    "price": 424.00,
+    "discountedPrice": 360.4,
+    "discount": 15,
+    "image": "Huawei"
+  },
+  {
+    "id": 34,
+    "title": "Huawei Mate Xs 512 GB (Huawei Türkiye Garantili) Huawei Mate Xs 512 GB (Huawei Türkiye Garantili)",
+    "brand": "Huawei",
+    "color": "Sarı",
+    "price": 424.00,
+    "discountedPrice": 360.4,
+    "discount": 15,
+    "image": "Huawei"
+  },
+  {
+    "id": 35,
+    "title": "Huawei Mate Xs 512 GB (Huawei Türkiye Garantili) Huawei Mate Xs 512 GB (Huawei Türkiye Garantili)",
+    "brand": "Huawei",
+    "color": "Beyaz",
+    "discountedPrice": 360.4,
+    "price": 424.00,
+    "discount": 15,
+    "image": "Huawei"
+  },
+  {
+    "id": 36,
+    "title": "LG K61 128 GB (LG Türkiye Garantili)",
+    "brand": "LG",
+    "color": "Siyah",
+    "discountedPrice": 360.4,
+    "price": 424.00,
+    "discount": 15,
+    "image": "LG"
+  },
+  {
+    "id": 37,
+    "title": "LG K61 128 GB (LG Türkiye Garantili)",
+    "brand": "LG",
+    "color": "Lacivert",
+    "discountedPrice": 360.4,
+    "price": 424.00,
+    "discount": 15,
+    "image": "LG"
+  },
+  {
+    "id": 38,
+    "title": "LG K61 128 GB (LG Türkiye Garantili)",
+    "brand": "LG",
+    "color": "Sarı",
+    "price": 424.00,
+    "discountedPrice": 360.4,
+    "discount": 15,
+    "image": "LG"
+  },
+  {
+    "id": 39,
+    "title": "LG K61 128 GB (LG Türkiye Garantili)",
+    "brand": "LG",
+    "color": "Beyaz",
+    "price": 424.00,
+    "discountedPrice": 360.4,
+    "discount": 15,
+    "image": "LG"
+  }
+]

@@ -1,0 +1,118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Test Renders Header correctly 1`] = `
+Array [
+  <div
+    className="header-wrapper"
+  >
+    <div
+      className="header"
+    >
+      <div
+        className="logo-wrapper"
+      >
+        <img
+          alt="logo"
+          src="logo.svg"
+        />
+      </div>
+      <div
+        className="search-wrapper"
+      >
+        <span
+          className="prefix"
+        >
+          <img
+            alt="search-icon"
+            src="search-icon.svg"
+          />
+        </span>
+        <input
+          className="search-input"
+          id="search-input"
+          onChange={[Function]}
+          placeholder="25 milyon’dan fazla ürün içerisinde ara"
+          type="text"
+        />
+      </div>
+      <div
+        className="basket-wrapper"
+      >
+        <div
+          className="basket-button"
+        >
+          <div>
+            Sepetim
+          </div>
+        </div>
+        <div
+          className="basket-opened"
+        >
+          <div
+            className="basket-empty-wrapper"
+          >
+            <div
+              className="basket-empty"
+            >
+              Sepetinizde ürün bulunmamaktadır.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="info-wrapper"
+  >
+    <div
+      className="category-wrapper"
+    >
+      <div
+        className="category"
+      >
+        Hoşgeldiniz
+      </div>
+      <div
+        className="search-keyword-wrapper"
+      />
+    </div>
+    <div
+      className="filter-wrapper"
+    >
+      <select
+        className="custom-select"
+        onChange={[Function]}
+        value=""
+      >
+        <option
+          disabled={true}
+          hidden={true}
+          value=""
+        >
+          Sıralama
+        </option>
+        <option
+          value="0"
+        >
+          En Düşük Fiyat
+        </option>
+        <option
+          value="1"
+        >
+          En Yüksek Fiyat
+        </option>
+        <option
+          value="2"
+        >
+          En Yeniler (A&gt;Z)
+        </option>
+        <option
+          value="3"
+        >
+          En Yeniler (Z&gt;A)
+        </option>
+      </select>
+    </div>
+  </div>,
+]
+`;

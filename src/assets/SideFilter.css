@@ -1,0 +1,41 @@
+.side-filter-wrapper {
+    width: 206px;
+    margin-left: 80px;
+    margin-right: 16px;
+    margin-top: 16px;
+    padding-top: 16px;
+}
+
+.side-filter-element {
+    margin-bottom: 24px;
+}
+
+.filter-element-header {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #484848;
+    margin-bottom: 12px;
+}
+
+.filter-option-wrapper {
+
+}
+
+.filter-option {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #646464;
+    cursor: pointer;
+}
+
+.filter-option:hover {
+    color: #FF6000;
+}
+
+.filter-option-active {
+    color: #FF6000;
+}

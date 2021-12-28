@@ -1,0 +1,72 @@
+.modal-wrapper {
+    width: 400px;
+    height: 260px;
+    background: #FFFFFF;
+    border: 1px solid rgba(228, 228, 228, 0.6);
+    box-sizing: border-box;
+    box-shadow: 0 6px 12px rgba(50, 50, 71, 0.07);
+    border-radius: 4px;
+    z-index: 10000000;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.modal-header {
+    margin: 24px 38px 20px 16px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 14px;
+}
+
+.modal-divider {
+    border: 1px solid #CDCDCD;
+    width: 100%;
+}
+
+.modal-body {
+    margin: 16px 38px 10px 20px;
+    width: 342px;
+    height: 128px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 17px;
+    color: #484848;
+}
+
+.modal-footer {
+    height: 26px;
+    margin-right: 20px;
+    display: inline-flex;
+    float: right;
+    justify-content: center;
+}
+
+.modal-button {
+    width: 70px;
+    height: 26px;
+    border: 0;
+    border-radius: 4px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.success-button {
+    background: #90D659;
+}
+
+.error-button {
+    background: #D65959;
+}
